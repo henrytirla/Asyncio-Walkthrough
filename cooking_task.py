@@ -1,6 +1,6 @@
 #Intuitive idea of async programming- Similar scenario can be used to monitor lp pools on Univswap V2/V3
 
-#Port this to pools monitoring script
+#Port this to pools monitoring scripts
 
 import asyncio
 
